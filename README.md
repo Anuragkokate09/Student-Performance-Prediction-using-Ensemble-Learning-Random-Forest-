@@ -1,4 +1,5 @@
-Student Performance Prediction
+# 🎓 **STUDENT PERFORMANCE PREDICTION**
+---
 This project uses Ensemble Learning to predict student academic outcomes (Pass/Fail). By combining multiple machine learning models through a Voting Classifier, the system achieves higher accuracy and reliability than using a single model alone.
 
 🚀 Overview
